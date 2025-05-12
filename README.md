@@ -58,7 +58,7 @@ The Logistic Regression model demonstrated good predictive performance with an a
 2. Install the required libraries:
 3. Run the model:
   ```bash
-  python cervical_cancer_prediction.py
+  python cervical_cancer_prediction.ipynb
   ```
 
 ## Dependencies
